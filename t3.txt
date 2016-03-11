@@ -1,0 +1,8 @@
+fibonacci 100000
+fibonacci 450000
+fibonacci 90000
+fibonacci 50000
+fibonacci 60000
+fibonacci 80000
+fibonacci 70000
+exit

@@ -1,0 +1,8 @@
+fibonacci 102
+fibonacci 100
+fibonacci 22
+fibonacci 12
+fibonacci 30
+fibonacci 50000
+fibonacci 10
+exit
